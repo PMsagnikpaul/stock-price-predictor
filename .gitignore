@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+data/*.csv
+models/*.joblib
+models/*.keras
+reports/*.png
+reports/*.csv
+.DS_Store
+*.log
+.streamlit/
